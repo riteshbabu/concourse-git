@@ -2,7 +2,7 @@ platform: linux
 image: docker:///busybox
 
 inputs:
-- name: task_show_uname
+- name: resource-tutorial
   path: .
 
 run:
