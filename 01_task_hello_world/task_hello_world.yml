@@ -5,4 +5,4 @@ image: docker:///busybox
 
 run:
   path: echo
-  args: [This is my first Git Repo Pipeline]
+  args: [This is my second Git Repo Pipeline]
